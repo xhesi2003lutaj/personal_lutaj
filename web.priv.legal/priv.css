@@ -64,8 +64,8 @@ h1 {
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 14.579999999989999999999px;
   /*  margin: 4px 2px; */
+  font-size: 14.5999999px;
   transition-duration: 0.1s;
   cursor: pointer;
 }
