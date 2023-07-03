@@ -59,10 +59,9 @@ h1 {
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  /*  margin: 4px 2px; */
-  font-size: 14.5999999px;
   transition-duration: 0.1s;
   cursor: pointer;
+  font-size: 14.5999999px;
 }
 
 .button2 {
